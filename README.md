@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 I’m @haicauvn (meaning is Sea lions in Vietnamese languages)
-👀 I’m interested in Coding
-🌱 I’m currently learning Java and JS
-📫 How to reach me (ping to my email "haidv245@gmail.com").
+- 👋 I’m @haicauvn (meaning is Sea lions in Vietnamese languages)
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java and JS
+- 📫 How to reach me (ping to my email "haidv245@gmail.com").
