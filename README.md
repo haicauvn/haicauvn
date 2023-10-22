@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,
 
 <!--
 **haicauvn/haicauvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 I’m @haicauvn (meaning is Sea lions in Vietnamese languages)
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java and JS
-- 📫 How to reach me (ping to my email "haidv245@gmail.com").
+##### I’m @haicauvn (means ~~Winter Bear~~ Sea lions in the Vietnamese language)
+##### I'm a Java Developer
+##### How to reach me? Ping to my email "haidv245@gmail.com"
